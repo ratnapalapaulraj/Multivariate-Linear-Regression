@@ -7,19 +7,19 @@ To write a python program to implement multivariate linear regression and predic
 ## Algorithm:
 ### Step1
 <br>
-
+Import required libraries (pandas and LinearRegression).
 ### Step2
 <br>
-
+Load the dataset into a dataframe.
 ### Step3
 <br>
-
+Select input features (weight, volume) as X and output (CO2) as y.
 ### Step4
 <br>
-
+Train the Linear Regression model using X and y.
 ### Step5
 <br>
-
+Predict CO2 value for new input 
 ## Program:
 ![WhatsApp Image 2026-03-25 at 20 40 37](https://github.com/user-attachments/assets/9c95e8ae-09b4-43ca-80cb-6c2a3b23f745)
 
