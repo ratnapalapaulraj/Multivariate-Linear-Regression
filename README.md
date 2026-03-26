@@ -7,14 +7,19 @@ To write a python program to implement multivariate linear regression and predic
 ## Algorithm:
 ### Step1
 <br>
+
 ### Step2
 <br>
+
 ### Step3
 <br>
+
 ### Step4
 <br>
+
 ### Step5
 <br>
+
 ## Program:
 ![WhatsApp Image 2026-03-25 at 20 40 37](https://github.com/user-attachments/assets/9c95e8ae-09b4-43ca-80cb-6c2a3b23f745)
 
